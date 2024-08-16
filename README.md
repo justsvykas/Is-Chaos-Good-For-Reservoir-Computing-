@@ -9,4 +9,4 @@ Main research areas:
 
 Table of contents in this repository:
 - Thesis.pdf you can find the main results of research done
-- code is written all the code needed to achieve results in Thesis.pdf
+- Inside Code_for_Honours_thesis.ipynb is all the code needed to achieve results in Thesis.pdf
