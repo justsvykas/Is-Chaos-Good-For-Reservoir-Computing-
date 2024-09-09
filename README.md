@@ -9,4 +9,4 @@ Main research areas:
 
 Table of contents in this repository:
 - [Thesis.pdf](https://github.com/justsvykas/Is-Chaos-Good-For-Reservoir-Computing-/blob/main/Thesis.pdf) you can find the main results of research done
-- Inside Code_for_Honours_thesis.ipynb is all the code needed to achieve results in Thesis.pdf
+- Inside [Code_for_Honours_thesis.ipynb](https://github.com/justsvykas/Is-Chaos-Good-For-Reservoir-Computing-/blob/main/Code_for_Honours_thesis.ipynb) is all the code needed to achieve results in Thesis.pdf
